@@ -7,7 +7,7 @@ Pytorch = 1.12.1, python = 3.9.13
 
 ## Data ##
 PeMSD4, PeMSD8, PeMSD3, PeMSD7, PeMSBay.
-Because of large data size, we upload the google drive link via https://drive.google.com/drive/folders/146BOfs03ljP1OrWnVzdoleuywzCTpS69?usp=sharing.
+Because of large data size, we upload the google drive and the link is https://drive.google.com/drive/folders/146BOfs03ljP1OrWnVzdoleuywzCTpS69?usp=sharing.
 The historical traffic flows are used from the previous 12 time steps (1 hour) to predict the traffic flows for the next 12 time steps (1 hour). 
 Three widely used metrics, namely Mean Absolute Error (MAE), Mean Absolute Percentage Error (MAPE), and Root Mean Squared Error (RMSE) are adopted to evaluate the accuracy of different traffic prediction models.
 ## Hyperparameters ##
