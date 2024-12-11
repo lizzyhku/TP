@@ -1,4 +1,4 @@
-# Efficient Traffic Prediction through Spatio-Temporal Distillation #
+# Efficient Traffic Prediction through Spatio-Temporal Distillation (LightST) #
 This is the implementation of Efficient Traffic Prediction through Spatio-Temporal Distillation:
 
 
