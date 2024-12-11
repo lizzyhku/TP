@@ -22,3 +22,11 @@ We use historical 12 time steps' traffic flows (1 hour) to predict next 12 time 
 Then you can run the code following the order.
 
 We also appreciate the help of MTGNN github (https://github.com/nnzhan/MTGNN).
+If you need, please cite the MTGNN as follows:
+
+'@inproceedings{wu2020connecting,
+  title={Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks},
+  author={Wu, Zonghan and Pan, Shirui and Long, Guodong and Jiang, Jing and Chang, Xiaojun and Zhang, Chengqi},
+  booktitle={Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
+  year={2020}
+}'
