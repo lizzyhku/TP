@@ -21,6 +21,16 @@ We use historical 12 time steps' traffic flows (1 hour) to predict next 12 time 
     python Mains.py --data PeMSBAY
 Then you can run the code following the order.
 
+
+If our paper is beneficial for your research, you can cite us as follows:
+    @article{zhang2025efficient,
+      title={Efficient Traffic Prediction Through Spatio-Temporal Distillation},
+      author={Zhang, Qianru and Gao, Xinyi and Wang, Haixin and Yiu, Siu-Ming and Yin, Hongzhi},
+      journal={arXiv preprint arXiv:2501.10459},
+      year={2025}
+    }
+
+
 We also appreciate the help of MTGNN github (https://github.com/nnzhan/MTGNN).
 If MTGNN benefits to your research, please cite the MTGNN as follows:
 
