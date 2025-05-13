@@ -24,12 +24,15 @@ Then you can run the code following the order.
 
 If our paper is beneficial for your research, you can cite us as follows:
     
-    @article{zhang2025efficient,
-      title={Efficient Traffic Prediction Through Spatio-Temporal Distillation},
-      author={Zhang, Qianru and Gao, Xinyi and Wang, Haixin and Yiu, Siu-Ming and Yin, Hongzhi},
-      journal={arXiv preprint arXiv:2501.10459},
+    @inproceedings{zhang2025efficient,
+      title={Efficient traffic prediction through spatio-temporal distillation},
+      author={Zhang, Qianru and Gao, Xinyi and Wang, Haixin and Yiu, Siu Ming and Yin, Hongzhi},
+      booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+      volume={39},
+      number={1},
+      pages={1093--1101},
       year={2025}
-    }
+}
 
 
 
